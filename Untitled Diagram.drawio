@@ -1,0 +1,374 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.9">
+  <diagram name="Page-1" id="O64YkhGJRJFvvmZLATnH">
+    <mxGraphModel dx="629" dy="1442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-1" target="7WJoirEgyPjlSJRLRqlb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-1" value="دانشگاه" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-133" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="-79" as="sourcePoint" />
+            <mxPoint x="1345" y="-37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-135" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-12" target="7WJoirEgyPjlSJRLRqlb-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-136" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-12" target="7WJoirEgyPjlSJRLRqlb-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-143" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-12" target="7WJoirEgyPjlSJRLRqlb-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="63" />
+              <mxPoint x="1280" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-12" value="اساتید" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="48" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-13" target="7WJoirEgyPjlSJRLRqlb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-13" value="دانشکده" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-14" target="7WJoirEgyPjlSJRLRqlb-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-14" value="گروه" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-15" value="قسمت درس " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-16" target="7WJoirEgyPjlSJRLRqlb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-16" value="دارد" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="95" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-17" target="7WJoirEgyPjlSJRLRqlb-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-17" target="7WJoirEgyPjlSJRLRqlb-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-17" value="درس" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-48" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-18" target="7WJoirEgyPjlSJRLRqlb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-18" value="شامل می شود" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="35" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.093;exitY=0.704;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;exitPerimeter=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-123" target="7WJoirEgyPjlSJRLRqlb-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-19" target="7WJoirEgyPjlSJRLRqlb-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-118" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-19" target="7WJoirEgyPjlSJRLRqlb-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-19" value="دانشجو" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-20" target="7WJoirEgyPjlSJRLRqlb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-20" value="ارائه می دهد" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="130" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-21" value="ترم" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-22" target="7WJoirEgyPjlSJRLRqlb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-22" value="تشکیل" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="215" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-54" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-25" target="7WJoirEgyPjlSJRLRqlb-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-25" value="ارائه می شود" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="280" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-12" target="7WJoirEgyPjlSJRLRqlb-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-34" value="عضو" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="37.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-110" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-38" target="7WJoirEgyPjlSJRLRqlb-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="120" as="targetPoint" />
+            <mxPoint x="920" y="240" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="930" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-141" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-38" target="7WJoirEgyPjlSJRLRqlb-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-38" value="راهنمایی" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="215" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-147" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-41" target="7WJoirEgyPjlSJRLRqlb-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="135" />
+              <mxPoint x="710" y="110" />
+              <mxPoint x="625" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-41" value="تعلق دارد" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="115" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-42" target="7WJoirEgyPjlSJRLRqlb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-42" value="ثبت نام" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="215" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-43" target="7WJoirEgyPjlSJRLRqlb-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="360" />
+              <mxPoint x="660" y="270" />
+              <mxPoint x="625" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-117" value="&lt;div&gt;4&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7WJoirEgyPjlSJRLRqlb-76">
+          <mxGeometry x="0.6706" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-43" value="تدریس" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-19" target="7WJoirEgyPjlSJRLRqlb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-1" target="7WJoirEgyPjlSJRLRqlb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-80" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="38" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-81" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="28" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-84" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="28" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-86" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="-69.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-87" target="7WJoirEgyPjlSJRLRqlb-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="-47" />
+              <mxPoint x="280" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-87" value="رییس" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="-70" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-93" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="28" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-95" target="7WJoirEgyPjlSJRLRqlb-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="-17" />
+              <mxPoint x="625" y="-17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-95" value="مدیر" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="-39.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-100" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="18" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-102" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="198" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-103" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="208" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-104" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="208" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-106" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="208" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-107" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="228" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-115" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="68" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-119" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="795" y="208" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-121" value="35" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="238" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-122" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="68" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-123" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="855" y="198" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-127" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="885" y="208" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-137" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-129" target="7WJoirEgyPjlSJRLRqlb-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-160" value="GS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7WJoirEgyPjlSJRLRqlb-137">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-129" value="استاد راهنما" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-130" value="مدیر گروه" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-138" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-131" target="7WJoirEgyPjlSJRLRqlb-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-161" value="GS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7WJoirEgyPjlSJRLRqlb-138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-139" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-130" target="7WJoirEgyPjlSJRLRqlb-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="180" />
+              <mxPoint x="1320" y="180" />
+              <mxPoint x="1320" y="-17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-140" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-131" target="7WJoirEgyPjlSJRLRqlb-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="210" />
+              <mxPoint x="1360" y="210" />
+              <mxPoint x="1360" y="-47" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-131" value="رییس دانشکده" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-148" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="238" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-150" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="328" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-151" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="38" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-152" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="148" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-153" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1225" y="138" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-156" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="88" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-157" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="68" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-158" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.019;entryY=1.063;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="7WJoirEgyPjlSJRLRqlb-34" target="7WJoirEgyPjlSJRLRqlb-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-159" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="38" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-163" value="کد دانشگاه" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="24.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-165" value="نام دانشگاه" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="78" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-166" value="کد دانشکده" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="-35.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-167" value="شماره تماس" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="-37" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-168" value="نام دانشکده" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="-35.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-169" value="کدگروه" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-35.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-170" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="236" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-171" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="418.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-172" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="441.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-173" value="کد استاد" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="-9" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-174" value="نام گروه" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="-34" width="50" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-175" value="کد دانشکده" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="-35.5" width="50" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-177" value="نام" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="-9" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-178" value="مرتبه علمی" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="-9" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-179" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="-9" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="7WJoirEgyPjlSJRLRqlb-180" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="-9" width="50" height="37" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
